@@ -17,9 +17,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /monitoring-
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Joelwmulongo's Monitoring page
-  introTitle: Monitoring of joelwmulongo's apps and site.
+  logoUrl: https://raw.githubusercontent.com/JoelwMulongo/card/master/assets/upptime-icon.svg
+  name: Joel Mulongo's Monitoring page
+  introTitle: Monitoring of Joel Mulongo's apps and sites.
   introMessage: Monitoring....
   navbar:
     - title: Status
