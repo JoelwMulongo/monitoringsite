@@ -27,7 +27,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Twitter
-      href: Https://twitter.com/mulongojoel
+      href: https://twitter.com/mulongojoel
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
