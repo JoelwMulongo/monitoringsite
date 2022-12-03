@@ -23,7 +23,7 @@ status-website:
   introMessage: Monitoring....
   navbar:
     - title: Status
-      href: https://joelwmulongo.github.io/monitoringsite
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Twitter
