@@ -15,15 +15,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://joel-mulongo-monitoring-site.vercel.app
-  # baseUrl: /monitoring-
+  # cname: https://joel-mulongo-monitoring-site.vercel.app
+  baseUrl: /monitoring-
   logoUrl: https://raw.githubusercontent.com/JoelwMulongo/card/master/assets/upptime-icon.svg
   name: Joel Mulongo's Monitoring page
   introTitle: Monitoring of Joel Mulongo's apps and sites.
   introMessage: Monitoring....
   navbar:
     - title: Status
-      href: /
+      href: https://joelwmulongo.github.io/monitoring-
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Twitter
