@@ -58,19 +58,19 @@
     "url": "https://joelcard.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelcard.netlify.app.ico",
     "slug": "simple-card",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 1440,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 485,
+    "timeDay": 1237,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-12-07": 0
+      "2022-12-07": 21
     }
   }
 ]
