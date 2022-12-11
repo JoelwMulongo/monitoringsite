@@ -6,7 +6,7 @@ sites:
   - name: Personal_Website
     url: https://joelmulongo.vercel.app
   - name: My Food App
-    url: https://joelfood-ordering.vercel.app
+    url: https://joelfoodordering.netlify.app
   - name: Twitter Posts Fetcher
     url: https://twitterpost.vercel.app
   - name: Simple Card
