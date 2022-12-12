@@ -3,13 +3,13 @@ owner: joelwmulongo # Your GitHub organization or username, where this repositor
 repo: monitoringsite # The name of this repository
 
 sites:
-  - name: Personal_Website
+  - name: Personal_Website🌐
     url: https://joelmulongo.vercel.app
-  - name: My Food App
+  - name: My Food App🍝
     url: https://joelfoodordering.netlify.app
-  - name: Twitter Posts Fetcher
+  - name: Twitter Posts Fetcher🐦
     url: https://twitterpost.vercel.app
-  - name: Simple Card
+  - name: Simple Card🔳
     url: https://joelcard.netlify.app
 
 status-website:
