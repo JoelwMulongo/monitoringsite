@@ -1,6 +1,6 @@
 [
   {
-    "name": "Personal_Website",
+    "name": "Personal_Website🌐",
     "url": "https://joelmulongo.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelmulongo.vercel.app.ico",
     "slug": "personal-website",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 86,
-    "timeWeek": 87,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 124,
+    "timeDay": 132,
+    "timeWeek": 106,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
-    "name": "My Food App",
+    "name": "My Food App🍝",
     "url": "https://joelfoodordering.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelfoodordering.netlify.app.ico",
     "slug": "my-food-app",
@@ -28,17 +28,17 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 128,
-    "timeDay": 200,
-    "timeWeek": 103,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 129,
+    "timeDay": 184,
+    "timeWeek": 108,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2022-12-10": 20
     }
   },
   {
-    "name": "Twitter Posts Fetcher",
+    "name": "Twitter Posts Fetcher🐦",
     "url": "https://twitterpost.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/twitterpost.vercel.app.ico",
     "slug": "twitter-posts-fetcher",
@@ -48,15 +48,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 106,
-    "timeWeek": 82,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "time": 123,
+    "timeDay": 126,
+    "timeWeek": 92,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Simple Card",
+    "name": "Simple Card🔳",
     "url": "https://joelcard.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelcard.netlify.app.ico",
     "slug": "simple-card",
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 650,
-    "timeDay": 136,
-    "timeWeek": 1012,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 631,
+    "timeDay": 98,
+    "timeWeek": 963,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2022-12-07": 21
     }
