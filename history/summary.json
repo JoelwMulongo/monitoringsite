@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/joelmulongo.vercel.app.ico",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "91.76%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.08%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 154,
     "timeDay": 543,
     "timeWeek": 182,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-12-13": 119
+      "2022-12-13": 142
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitterpost.vercel.app.ico",
     "slug": "twitter-posts-fetcher",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.08%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 150,
     "timeDay": 502,
     "timeWeek": 164,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-12-13": 119
+      "2022-12-13": 142
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://joelcard.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelcard.netlify.app.ico",
     "slug": "simple-card",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 669,
-    "timeDay": 1095,
-    "timeWeek": 1060,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 733,
+    "timeDay": 1593,
+    "timeWeek": 1152,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2022-12-13": 13,
+      "2022-12-13": 0,
       "2022-12-07": 21
     }
   }
