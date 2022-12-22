@@ -24,8 +24,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/joelwmulongo/monitoringsite
     - title: Twitter
       href: https://twitter.com/mulongojoel
 
