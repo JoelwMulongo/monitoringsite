@@ -1,33 +1,33 @@
 # Change these first
-owner: Pradumnasaraf # Your GitHub organization or username, where this repository lives
-repo: Monitoring # The name of this repository
+owner: joelwmulongo # Your GitHub organization or username, where this repository lives
+repo: monitoringsite # The name of this repository
 
 sites:
-  - name: Personal Website
-    url: https://pradumnasaraf.dev
-  - name: Personal Blog
-    url: https://blog.pradumnasaraf.dev  
-  - name: Open Source With Pradumna
-    url: https://oswp.study
-  - name: Open API
-    url: https://opensourceapi.vercel.app
+  - name: Personal_Website🌐
+    url: https://joelmulongo.vercel.app
+  - name: My Food App🍝
+    url: https://joelfoodordering.netlify.app
+  - name: Twitter Posts Fetcher🐦
+    url: https://twitterpost.vercel.app
+  - name: Simple Card🔳
+    url: https://joelcard.netlify.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /Monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Pradumna's Monitoring page
-  introTitle: Monitoring of Pradumna apps and site.
+  baseUrl: /monitoringsite
+  logoUrl: https://raw.githubusercontent.com/JoelwMulongo/card/master/assets/upptime-icon.svg
+  name: Joel Mulongo's Monitoring page
+  introTitle: Monitoring of Joel Mulongo's apps and sites.
   introMessage: Monitoring....
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: github
       href: https://github.com/$OWNER/$REPO
     - title: Twitter
-      href: https://twitter.com/pradumna_saraf
+      href: https://twitter.com/mulongojoel
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
