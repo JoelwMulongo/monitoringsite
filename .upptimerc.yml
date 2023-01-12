@@ -4,7 +4,7 @@ repo: monitoringsite # The name of this repository
 
 sites:
   - name: Personal_Website🌐
-    url: https://joelmulongow.vercel.app
+    url: https://joelmulongo.vercel.app
   - name: My Food App🍝
     url: https://joelfoodordering.netlify.app
   - name: Twitter Posts Fetcher🐦
