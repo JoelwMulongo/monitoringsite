@@ -9,7 +9,7 @@ sites:
     url: https://joelfoodordering.netlify.app
   - name: Twitter Posts Fetcher🐦
     url: https://twitterpost.vercel.app
-  - name: Simple Card🔳
+  - name: Simple Card◼️
     url: https://joelcard.netlify.app
 
 status-website:
