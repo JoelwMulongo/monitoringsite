@@ -11,6 +11,8 @@ sites:
     url: https://twitterpost.vercel.app
   - name: Simple Card◼️
     url: https://joelcard.netlify.app
+  - name: Movies & Series Database Search🎬
+    url: https://movieskali.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
