@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 134,
-    "timeDay": 46,
-    "timeWeek": 277,
-    "timeMonth": 140,
+    "timeDay": 44,
+    "timeWeek": 100,
+    "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2022-12-25": 300,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 118,
-    "timeWeek": 163,
-    "timeMonth": 202,
+    "timeDay": 114,
+    "timeWeek": 147,
+    "timeMonth": 203,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2022-12-14": 17,
@@ -54,8 +54,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 124,
-    "timeDay": 195,
-    "timeWeek": 248,
+    "timeDay": 56,
+    "timeWeek": 108,
     "timeMonth": 116,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 288,
-    "timeDay": 314,
-    "timeWeek": 148,
+    "time": 287,
+    "timeDay": 77,
+    "timeWeek": 135,
     "timeMonth": 143,
-    "timeYear": 288,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2022-12-13": 19,
       "2022-12-07": 21
@@ -97,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 615,
-    "timeWeek": 184,
+    "time": 116,
+    "timeDay": 58,
+    "timeWeek": 174,
     "timeMonth": 109,
-    "timeYear": 117,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   }
 ]
