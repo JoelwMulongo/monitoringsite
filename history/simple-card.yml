@@ -1,7 +1,7 @@
 url: https://joelcard.netlify.app
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2023-09-28T23:00:50.430Z
+status: down
+code: 500
+responseTime: 145
+lastUpdated: 2023-09-29T13:58:47.679Z
 startTime: 2022-12-02T20:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
