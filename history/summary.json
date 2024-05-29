@@ -4,19 +4,19 @@
     "url": "https://joelmulongo.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelmulongo.vercel.app.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 94,
-    "timeWeek": 84,
-    "timeMonth": 76,
+    "timeDay": 66,
+    "timeWeek": 79,
+    "timeMonth": 72,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-05-29": 0
+      "2024-05-29": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://twitterpost.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/twitterpost.vercel.app.ico",
     "slug": "twitter-posts-fetcher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 81,
-    "timeWeek": 59,
-    "timeMonth": 65,
+    "timeDay": 60,
+    "timeWeek": 56,
+    "timeMonth": 62,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-05-29": 0
+      "2024-05-29": 7
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://movieskali.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieskali.vercel.app.ico",
     "slug": "movies-and-series-database-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 87,
-    "timeWeek": 106,
-    "timeMonth": 110,
+    "timeDay": 85,
+    "timeWeek": 103,
+    "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-29": 0
+      "2024-05-29": 7
     }
   }
 ]
