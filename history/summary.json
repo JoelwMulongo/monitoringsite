@@ -4,19 +4,19 @@
     "url": "https://jmnews.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/jmnews.vercel.app.ico",
     "slug": "tech-news",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 165,
-    "timeDay": 126,
-    "timeWeek": 157,
-    "timeMonth": 167,
+    "timeDay": 123,
+    "timeWeek": 152,
+    "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 40
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://joelmulongo.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelmulongo.vercel.app.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 66,
-    "timeWeek": 141,
+    "timeDay": 91,
+    "timeWeek": 138,
     "timeMonth": 136,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 40
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://twitterpost.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/twitterpost.vercel.app.ico",
     "slug": "twitter-posts-fetcher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 117,
-    "timeWeek": 144,
-    "timeMonth": 136,
-    "timeYear": 138,
+    "timeDay": 96,
+    "timeWeek": 135,
+    "timeMonth": 134,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 40
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://movieskali.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieskali.vercel.app.ico",
     "slug": "movies-and-series-database-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 58,
-    "timeWeek": 118,
-    "timeMonth": 134,
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 115,
+    "timeDay": 75,
+    "timeWeek": 115,
+    "timeMonth": 133,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 40
     }
   }
 ]
