@@ -4,10 +4,10 @@
     "url": "https://jmnews.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/jmnews.vercel.app.ico",
     "slug": "tech-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 165,
@@ -16,6 +16,7 @@
     "timeMonth": 162,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-08-25": 17,
       "2025-07-27": 40
     }
@@ -25,10 +26,10 @@
     "url": "https://joelmulongo.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/joelmulongo.vercel.app.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 121,
@@ -37,6 +38,7 @@
     "timeMonth": 165,
     "timeYear": 145,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-08-25": 16,
       "2025-07-27": 40
     }
@@ -64,9 +66,9 @@
     "url": "https://twitterpost.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/twitterpost.vercel.app.ico",
     "slug": "twitter-posts-fetcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
@@ -76,6 +78,7 @@
     "timeMonth": 303,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-25": 16,
       "2025-07-27": 40
     }
@@ -103,10 +106,10 @@
     "url": "https://movieskali.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/movieskali.vercel.app.ico",
     "slug": "movies-and-series-database-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 116,
@@ -115,6 +118,7 @@
     "timeMonth": 131,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-25": 16,
       "2025-07-27": 40
     }
