@@ -46,11 +46,4 @@ jobs:
           force_orphan: "false"
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
-    - name: Push to gh-pages
-  env:
-    GH_PAT: ${{ secrets.GH_PAT }}
-  run: |
-    git config --global user.name "GitHub Actions"
-    git config --global user.email "actions@github.com"
-    git remote set-url origin https://JoelwMulongo:${GH_PAT}@github.com/JoelwMulongo/monitoringsite.git
-    git push origin gh-pages     
+   
