@@ -13,14 +13,19 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
 name: Static Site CI
 on:
+  push:
+    paths:
+      - "assets/**"
   schedule:
     - cron: "0 1 * * *"
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
+concurrency:
+  group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
+  cancel-in-progress: false
 jobs:
   release:
     name: Build and deploy site
@@ -28,12 +33,12 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: upptime/uptime-monitor@v1.43.13
         with:
           command: "site"
         env:
@@ -46,4 +51,3 @@ jobs:
           force_orphan: "false"
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
-   
