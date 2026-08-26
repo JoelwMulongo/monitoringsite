@@ -32,9 +32,9 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@v1.41.0
-        with:
-          command: "update"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
+  uses: upptime/uptime-monitor@v1.43.0  # Update from v1.41.0 to latest stable version
+  with:
+    command: "update"
+  env:
+    GH_PAT: ${{ secrets.GH_PAT || github.token }}
+    SECRETS_CONTEXT: ${{ toJson(secrets) }}
