@@ -42,7 +42,7 @@
     "slug": "my-food-app",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2026-09-18": 0
+      "2026-09-18": 1
     }
   },
   {
@@ -80,7 +80,7 @@
     "slug": "simple-card",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
