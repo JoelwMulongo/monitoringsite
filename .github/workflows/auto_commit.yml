@@ -1,0 +1,64 @@
+name: Auto Commit
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  auto_commit:
+    # Prevent the workflow from triggering itself
+    if: "!startsWith(github.event.head_commit.message, 'chore(bot):')"
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Modify last update
+        run: |
+          d=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+          echo "$d" > LAST_UPDATED
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "joelmulongo97@gmail.com"
+          git config --local user.name "joelwmulongo"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          arr=(
+            "chore(bot): 😂 auto commit"
+            "chore(bot): 😱 auto commit"
+            "chore(bot): 👿 auto commit"
+            "chore(bot): 💩 auto commit"
+            "chore(bot): 🙏 auto commit"
+            "chore(bot): 🙈 auto commit"
+            "chore(bot): 🐐 auto commit"
+            "chore(bot): 🤖 auto commit"
+            "chore(bot): 🟩 auto commit"
+            "chore(bot): 👻 auto commit"
+          )
+
+          rand=$((RANDOM % ${#arr[@]}))
+
+          git commit -m "${arr[$rand]}"
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
